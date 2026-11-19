@@ -30,6 +30,14 @@ Me chamo Lucas Guedes, tenho 28 anos e sou natural de Fortaleza-CE. Atualmente, 
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/78e3c4f0-773d-418f-a14d-0f6df5b2efca" />
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -44,6 +52,14 @@ Me chamo Lucas Guedes, tenho 28 anos e sou natural de Fortaleza-CE. Atualmente, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/be2492e7-2f9e-4cc1-bc00-394d9ffe4844" 
+ />
 <img 
     align="left" 
     alt="Bootstrap"
